@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Calculator 
 {
 
@@ -12,7 +14,7 @@ public class Calculator
       
 // Take operator input from user
 
-        int sum, operation;
+        String operation;
         System.out.println("Enter the operation you want to perform 1.Add 2.Sub 3.Mul 4.Div");
         operation = sc.nextLine();
 
@@ -28,6 +30,6 @@ public class Calculator
         }else{
             System.out.println("Please enter valid input");
         }
-        
+ sc.close();    
     }    
 }
