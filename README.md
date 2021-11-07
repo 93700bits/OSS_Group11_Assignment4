@@ -1,7 +1,12 @@
 # OSS_Group11_Assignment4
- Basic Calculator Implementation
 
- This project handles two operands of integer type and performs four basic operations on the operands.
+# Project Description
+
+This is an implementation of  Basic Calculator in Java language. 
+
+This project handles two operands of integer type and performs four basic operations on the operands.
+
+This project is implemented as part of Assignment 4 of Open Source Software Engineering Subject.
 
  # Opertions performed
  1. Addition
