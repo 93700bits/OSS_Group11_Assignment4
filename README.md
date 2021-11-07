@@ -16,12 +16,11 @@ This project is implemented as part of Assignment 4 of Open Source Software Engi
 
 
 # Project Contributers:
-S.No.	Bits ID	Name 	                        Email ID
-1	    2020mt93576	Vivek Vijay Sinha	        2020mt93576@wilp.bits-pilani.ac.in
-2	    2020mt93669	Ishvinder Singh Arora	    2020mt93669@wilp.bits-pilani.ac.in
-3	    2020mt93718	P N Vineetha 	            2020mt93718@wilp.bits-pilani.ac.in
-4	    2020mt93700	Chabila Yoganand Borkar	    2020MT93700@wilp.bits-pilani.ac.in
-
+S.No.	Bits ID	Name 	                        Email ID                                Repos
+1	    2020mt93576	Vivek Vijay Sinha	        2020mt93576@wilp.bits-pilani.ac.in      https://github.com/vivekbitspilani/OSS_Group11_Assignment4.git 
+2	    2020mt93669	Ishvinder Singh Arora	    2020mt93669@wilp.bits-pilani.ac.in      https://github.com/Ish2012/OSS_Group11_Assignment4.git
+3	    2020mt93718	P N Vineetha 	            2020mt93718@wilp.bits-pilani.ac.in      https://github.com/Vineethapn/OSS_Group11_Assignment4.git
+4	    2020mt93700	Chabila Yoganand Borkar	    2020MT93700@wilp.bits-pilani.ac.in      https://github.com/93700bits/OSS_Group11_Assignment4.git (Main Repo)
 
 # Change log
 
